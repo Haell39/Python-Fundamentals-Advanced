@@ -1,7 +1,9 @@
 # 📚 Basics to Advanced Python
 
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)  
-**Welcome to the #basics-Advanced_Python Repository!**  
+
+**Welcome to the basics-Advanced_Python Repository!**  
+
 Aqui você encontrará um guia completo para aprender Python, desde os conceitos básicos até tópicos avançados, com explicações detalhadas e projetos práticos. 🚀
 
 > **Nota:** A maior parte da documentação está em inglês por motivos de estudo e treinamento da língua. Isso me ajuda a praticar e também torna o conteúdo acessível a uma audiência global. 🌍 Se precisar de ajuda em português, é só perguntar! 😉
