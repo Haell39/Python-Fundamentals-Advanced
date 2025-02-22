@@ -20,27 +20,23 @@ Abaixo está a lista de tópicos que serão abordados neste curso. Prepare-se pa
 
 | #  | Tópico                                           | Abordado |
 |----|--------------------------------------------------|----------|
-| 1  | Python: An Introduction                          | 📌       |
-| 2  | Installing Python                                | 📌       |
-| 3  | A Deep Understanding of Python Variables         | 📌       |
-| 4  | Python Operators: Usage and Functionality        | 📌       |
-| 5  | Various Data Structures in Python                | 📌       |
-| 7  | Understanding Python's Logical and Membership Operators | 📌 |
-| 8  | Identity and Bitwise Operators in Python         | 📌  ✨     |
-| 10 | Python Control Flow: Conditional and Loop Statements | 📌   |
-| 11 | Python Functions: User Defined vs. Lambda        | 📌  ✨     |
-| 12 | Understanding Python's OOP: Classes, Objects, and Constructors | 📌 |
-| 13 | Python Encapsulation, Polymorphism, Abstraction  | 📌       |
-| 14 | File Operations in Python                        | 📌   ✨    |
-| 15 | Python Turtle                                    | 📌 ✨      |
-| 16 | Project 1 (Turtle)                                       | 📌       |
-| 17 | Project 2 (Turtle)                                       | 📌       |
-| 18 | Project 3 (General)                                       | 📌     📝  |
-
+| 1  | A Deep Understanding of Python Variables         | 📌       |
+| 2  | Python Operators: Usage and Functionality        | 📌       |
+| 3  | Various Data Structures in Python                | 📌       |
+| 4  | Understanding Python's Logical and Membership Operators | 📌 |
+| 5  | Identity and Bitwise Operators in Python         | 📌 ✨     |
+| 6  | Python Control Flow: Conditional and Loop Statements | 📌   |
+| 7  | Python Functions: User Defined vs. Lambda        | 📌 ✨     |
+| 8  | Understanding Python's OOP: Classes, Objects, and Constructors | 📌 |
+| 9  | Python Encapsulation, Polymorphism, Abstraction  | 📌       |
+| 10 | File Operations in Python                        | 📌 ✨     |
+| 11 | Python Turtle                                    | 📌 ✨     |
+| 12 | Project 1 (Turtle)                               | 📌       |
+| 13 | Project 2 (Turtle)                               | 📌       |
+| 14 | Project 3 (General)                              | 📌 📝    |
 
 ### Obs: '✨' Indica um conteúdo que será mais aprofundado posteriormente.
 ### Obs2: '📝' Indica que tal conteúdo ainda está sendo pensado.
-
 
 ---
 
@@ -64,7 +60,7 @@ Abaixo está a lista de tópicos que serão abordados neste curso. Prepare-se pa
 
 ## 📖 Pré-requisitos
 - Interesse em aprender Python! 😊
-- Um computador com Python instalado (veja a seção "Installing Python" para ajuda).
+- Um computador com Python instalado.
 - Lógica de programação básica.
 
 ---
@@ -75,7 +71,7 @@ Quer contribuir? Fique à vontade para abrir um *pull request* ou sugerir melhor
 ---
 
 ## 📬 Contato
-Dúvidas ou sugestões? Me encontre no [seu-email@example.com](mailto:seu-email@example.com) ou abra uma *issue* aqui no GitHub.
+Dúvidas ou sugestões? Me encontre no [rafaeldutrapro@gmail.com](mailto:rafaeldutrapro@gmail.com) ou abra uma *issue* aqui no GitHub.
 
 **Happy coding!** 🎉🐍
 
